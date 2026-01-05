@@ -1,12 +1,20 @@
+"""
+df_gen.generator
+
+Synthetic DataFrame generator for analytics and testing.
+
+Author: Sarah Dippolito
+License: MIT
+"""
+
 #imports
 import numpy as np
 import pandas as pd 
 import string
 import random
 
-'''
-Class that generates dataframes based on chosen column types and parameter values 
-'''
+__all__ = ["df_gen"]
+
 
 # ai generated names
 f_n = [
