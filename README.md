@@ -1,4 +1,4 @@
-# df_gen
+# dataframe_generator
 
 # `df_gen` — Synthetic DataFrame Generator
 
